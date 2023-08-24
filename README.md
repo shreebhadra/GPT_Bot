@@ -1,5 +1,7 @@
+<h1>GPT_Bot</h1
+
 Firstly,
--Run server using npm run dev.
+-Run server using npm run dev in the terminal.
 
 In Discord 
 Invocation Command:
