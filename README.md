@@ -2,7 +2,7 @@
 
 <h2>Installation:</h2>
 <br>Open Discord Developer Portal, create one application and add one bot. </br>
-<br>And copy these key inside your .env from there</br>
+<br>And copy these key inside your .env file</br>
 <br>BOT_TOKEN="BOT_TOKEN"</br>
 <br>CLIENT_ID="CLIENT_ID"</br>
 <br>OPENAI_API_KEY="OPENAI_API_KEY"</br>
@@ -13,3 +13,6 @@
 
 <br>Invocation Command:</br>
 Type /ask and then choose prompt option. Ask your question and wait for result.
+
+<br>Updated Code</br>
+Link: https://github.com/shreebhadra/Discord_GPTBot-4.0
